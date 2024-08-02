@@ -1,0 +1,1 @@
+gcc -Wall -ansi -pedantic -Werror temp.c -o temp
